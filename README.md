@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **Seeun126/Seeun126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
